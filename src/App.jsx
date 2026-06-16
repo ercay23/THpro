@@ -1,6 +1,9 @@
 function App() {
   return (
-    <h1>Hallo Schweiz!</h1>
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h1>TreuhandPro yayında 🎉</h1>
+      <p>Bu site Vercel üzerinde çalışıyor.</p>
+    </div>
   )
 }
 
